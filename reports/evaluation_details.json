@@ -1,0 +1,87 @@
+{
+  "selected_model": "Logistic Regression",
+  "models": {
+    "Logistic Regression": {
+      "classification_report": {
+        "0": {
+          "precision": 0.9803625377643505,
+          "recall": 0.6689572238447002,
+          "f1-score": 0.7952619217808639,
+          "support": 5821.0
+        },
+        "1": {
+          "precision": 0.04980276134122288,
+          "recall": 0.5642458100558659,
+          "f1-score": 0.0915269596737653,
+          "support": 179.0
+        },
+        "accuracy": 0.6658333333333334,
+        "macro avg": {
+          "precision": 0.5150826495527867,
+          "recall": 0.6166015169502831,
+          "f1-score": 0.4433944407273146,
+          "support": 6000.0
+        },
+        "weighted avg": {
+          "precision": 0.9526008377677272,
+          "recall": 0.6658333333333334,
+          "f1-score": 0.7742671620780022,
+          "support": 6000.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          3894,
+          1927
+        ],
+        [
+          78,
+          101
+        ]
+      ],
+      "average_precision": 0.060548470629522747,
+      "roc_auc": 0.6743470712379278
+    },
+    "Random Forest": {
+      "classification_report": {
+        "0": {
+          "precision": 0.9701517425379357,
+          "recall": 0.9994846246349425,
+          "f1-score": 0.984599763073278,
+          "support": 5821.0
+        },
+        "1": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 179.0
+        },
+        "accuracy": 0.9696666666666667,
+        "macro avg": {
+          "precision": 0.48507587126896784,
+          "recall": 0.49974231231747124,
+          "f1-score": 0.492299881536639,
+          "support": 6000.0
+        },
+        "weighted avg": {
+          "precision": 0.9412088822188872,
+          "recall": 0.9696666666666667,
+          "f1-score": 0.9552258701415919,
+          "support": 6000.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          5818,
+          3
+        ],
+        [
+          179,
+          0
+        ]
+      ],
+      "average_precision": 0.04596221663774312,
+      "roc_auc": 0.5901508600626321
+    }
+  }
+}

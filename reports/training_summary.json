@@ -1,0 +1,11 @@
+{
+  "rows": 30000,
+  "fraud_count": 894,
+  "fraud_rate_percent": 2.98,
+  "train_rows": 21000,
+  "validation_rows": 4500,
+  "test_rows": 4500,
+  "selected_model": "Logistic Regression",
+  "validation_pr_auc": 0.08423317090665741,
+  "threshold_selected_on_validation": 0.6993345377638347
+}

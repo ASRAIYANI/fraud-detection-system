@@ -1,0 +1,11 @@
+{
+  "rows": 30000,
+  "columns": 13,
+  "fraud_count": 894,
+  "fraud_rate_percent": 2.98,
+  "missing_values": {
+    "merchant_category": 150,
+    "distance_from_home_km": 300
+  },
+  "note": "Synthetic educational data. Not for real-world fraud decisions."
+}
