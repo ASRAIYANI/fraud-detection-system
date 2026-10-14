@@ -1,8 +1,12 @@
 # Transaction Fraud Detection System
 
-An educational end-to-end classification project: train models, compare fraud-detection metrics, save a reusable pipeline, and explore results in a Streamlit dashboard.
+## 🚀 Live Demo
 
-**Important:** Data is synthetic. Do not use the model for real payment decisions.
+Try the deployed Fraud Detection System here:
+
+**[Open the Live App](https://fraud-detection-system-kcelmbdga2ragmj2kbnzx5.streamlit.app/)
+
+> Educational machine learning project using synthetic transaction data. Not intended for real-world banking or financial decisions.
 
 ## Skills
 - Pandas data preparation and class imbalance
