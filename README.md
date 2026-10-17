@@ -4,7 +4,7 @@
 
 Try the deployed Fraud Detection System here:
 
-**[Open the Live App](https://fraud-detection-system-kcelmbdga2ragmj2kbnzx5.streamlit.app/)
+**[Open the Live App](https://asraiyani-fraud-detection.streamlit.app/)
 
 > Educational machine learning project using synthetic transaction data. Not intended for real-world banking or financial decisions.
 
